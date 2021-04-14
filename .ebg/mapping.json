@@ -1,0 +1,29 @@
+{
+  "version" : 2,
+  "url" : "http://gitbridge-35.223.191.184.nip.io",
+  "git" : {
+    "context" : "chipset",
+    "repository" : "ZoweTest",
+    "url" : "https://github.com/chipset/ZoweTest.git",
+    "branch" : "dev"
+  },
+  "endevor" : {
+    "baseUrl" : "http://35.226.100.133:6002/EndevorService/rest/",
+    "configuration" : "ENDEVOR"
+  },
+  "branches" : [ {
+    "name" : "dev",
+    "environment" : "DEV",
+    "stageNumber" : 1,
+    "systems" : [ {
+      "name" : "MARBLES",
+      "subsystems" : [ {
+        "name" : "MARBLES",
+        "filter" : null
+      } ],
+      "filter" : null
+    } ],
+    "workEnvironmentOnly" : false,
+    "readOnly" : false
+  } ]
+}
