@@ -1,6 +1,6 @@
       * ===============================================================         
       * The user invokes this transaction (called MB00) via:                    
-      *   MB00 <VERB>                              
+      *   MB00 <VERB>      BRIAN                     
       *                                                                         
       * Where:                                                                  
       *   <VERB> = CRE|UPD|DEL                                                  
