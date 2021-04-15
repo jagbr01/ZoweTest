@@ -1,6 +1,6 @@
       * ===============================================================         
       * The user invokes this transaction (called MB29) via:                    
-      *   MB29 <VERB>                                  Z           
+      *   MB29 <VERB>                                     
       *                                                                         
       * Where:                                                                  
       *   <VERB> = CRE|UPD|DEL                                                  
