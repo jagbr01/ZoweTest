@@ -8,7 +8,7 @@
       * Verb Functions:                                                         
       *                                                                         
       * CREate                                                                  
-      *  Invoked via MB30 CRE <COLOR> <INVENTORY> <COST>                        
+      *  Invoked via MB30 CRE <COLOR> <INVENTORY> <COST>  HOWDY                      
       *                                                                         
       *  Where:                                                                 
       *   <COLOR>     A new marble color not defined in EVENT.MARBLE            
